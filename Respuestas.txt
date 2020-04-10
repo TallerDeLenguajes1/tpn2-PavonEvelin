@@ -1,0 +1,13 @@
+Trabajo Practico N°2
+
+PUNTO 2)f)
+  ¿Puede ver el archivo tp2_1_2.cpp? ¿Por qué?
+ 
+  Cuando voy a la carpeta donde inicialice mi repositorio no puedo ver el archivo tp2_1_2.cpp ya que este quedo guardado en la rama Opcion_2 y no en la rama Master.
+
+PUNTO 2)i)
+  Cambie al Branch master y vuelva a ejecutar el comando gitk –all ¿Qué diferencias nota?
+
+  Cuando ejecuto el comando gitk --all me muestra los cambios realizados en el repositorio. La diferencia es que cuando cambio de rama se marca de color azul la rama en la que me encuentro.
+
+ 
